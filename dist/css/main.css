@@ -429,8 +429,6 @@ img {
         cursor: pointer; }
 
 @media (min-width: 500px) {
-  #contact-b {
-    margin-top: 5px; }
   #work-a {
     margin-bottom: 90px; } }
 
