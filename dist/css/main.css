@@ -386,6 +386,8 @@ img {
   #contact-a .text-fields textarea:focus {
     outline: none;
     border: 1px solid #ffbc00; }
+  #contact-a .text-fields .center {
+    align-self: center; }
   #contact-a .text-fields .text-input {
     padding: 0.5rem 1rem; }
   #contact-a .text-fields .hidden {
