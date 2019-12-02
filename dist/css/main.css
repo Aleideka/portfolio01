@@ -387,7 +387,8 @@ img {
     outline: none;
     border: 1px solid #ffbc00; }
   #contact-a .text-fields .center {
-    text-align: center; }
+    text-align: center;
+    width: 304px; }
   #contact-a .text-fields .text-input {
     padding: 0.5rem 1rem; }
   #contact-a .text-fields .hidden {
