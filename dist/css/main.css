@@ -368,7 +368,7 @@ img {
 
 #contact-a .text-fields {
   display: grid;
-  grid-template-areas: "name email" "subject phone" "message message" "spam spam";
+  grid-template-areas: "name email" "subject phone" "message message";
   grid-gap: 1.2rem;
   margin-bottom: 1.2rem; }
   #contact-a .text-fields .name-input {
@@ -382,8 +382,6 @@ img {
   #contact-a .text-fields .message-input {
     grid-area: message;
     height: 100px; }
-  #contact-a .text-fields .spam-input {
-    grid-area: spam; }
   #contact-a .text-fields input:focus,
   #contact-a .text-fields textarea:focus {
     outline: none;

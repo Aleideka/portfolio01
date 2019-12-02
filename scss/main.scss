@@ -318,8 +318,7 @@ img {
       grid-template-areas:
         "name email"
         "subject phone"
-        "message message"
-        "spam spam";
+        "message message";
       grid-gap: 1.2rem;
       margin-bottom: 1.2rem;
 
@@ -339,10 +338,6 @@ img {
       .message-input {
         grid-area: message;
         height: 100px;
-      }
-
-      .spam-input {
-        grid-area: spam;
       }
 
       input:focus,
